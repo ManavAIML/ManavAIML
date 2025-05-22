@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **[Project Name]**
 - 🤝 I’m looking for help with **[Robots]**
 - 📫 How to reach me **[vaikunth2213@gmail.com]**
 
@@ -31,7 +30,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg](https://www.linkedin.com/in/manav-patel-405732340/)" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://www.linkedin.com/in/manav-patel-405732340/ alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---

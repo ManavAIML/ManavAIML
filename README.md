@@ -30,7 +30,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://www.linkedin.com/in/manav-patel-405732340/ alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
